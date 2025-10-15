@@ -8,3 +8,7 @@
 ehthumbs.db
 Thumbs.db
 .shopify
+
+# Claude Code #
+################
+.claude/settings.local.json
